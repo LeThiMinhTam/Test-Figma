@@ -1,0 +1,57 @@
+.Brands {
+    position: relative;
+    height: 147px;
+    width: 1440px;
+    background-color: rgb(251, 253, 255);
+
+}
+
+.a-brand {
+    position: absolute;
+    justify-content: space-between ;
+    display: flex;
+    margin-top: 35px;
+}
+
+.nike {
+    height: 60px;
+    width: 83px;
+    margin-top: 4px;
+    margin-left: 129px;
+    margin-right: 72px;
+}
+
+.adidas {
+    width: 62px;
+    height: 60px;
+    margin-right: 72px;
+}
+
+.route-one {
+    height: 67px;
+    width: 135px;
+    margin-right: 72px;
+}
+
+.vans {
+    height: 67px;
+    width: 128px;
+    margin-right: 72px;
+}
+
+.carhartt {
+    height: 67px;
+    width: 128px;
+    /* margin-top: 45px;
+    margin-right: 487px; */
+    margin-right: 72px;
+}
+
+.santa {
+    height: 60px;
+    width: 49px;
+    /* margin-top: 45px;
+    margin-right: 366px; */
+    margin-right: 128px;
+}
+

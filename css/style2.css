@@ -1,0 +1,785 @@
+header{
+    position: relative;
+}
+
+/* INFO */
+
+
+.info {
+    position: absolute;
+    height: 32px;
+    width: 1440px;
+    background-color: black;
+
+}
+
+.icon-phone {
+    color: white;
+    margin-left: 130px;
+    margin-top: 9px;
+}
+
+.sdt {
+    position: absolute;
+    
+    color: white;
+    margin-top: -18px;
+    margin-left: 150px;
+}
+
+.address {
+    position: absolute;
+    color: white;
+    display: flex;
+    margin-left: 280px;
+    margin-top: -18px;
+}
+
+.start {
+    position: absolute;
+    margin-left: 1032px;
+    margin-top: -18px;
+}
+
+.start-1 {
+    position: absolute;
+    height: 15px;
+    width: 182px;
+    font-size: 12px;
+    color: white;
+    margin-left: 80px;
+    margin-top: -18px;
+}
+
+
+/* HEARDER-1 */
+.header-1{
+    width: 1440px;
+    height: 120px;
+    background-color: #fbfbfb;
+
+}
+
+/* LOGO */
+.header-logo{
+    height: 50px;
+    width: 120px;
+    position: absolute;
+    top: 35px;
+    right: 1190px;
+    bottom: 35px;
+    left: 130px;
+    margin-top: 20px;
+}
+
+/* a.img-logo {
+    position: absolute;
+    margin-top: 100px;
+} */
+
+
+/* GENDER */
+
+.hr-header-gender {
+    position: absolute;
+    width: 32px;
+    height: 0px;
+    border: 1px solid #000;
+    margin-top: 70px;
+    margin-left: 318px;
+}
+
+.header-gender{
+    position: absolute;
+    display: flex;
+    margin-top: 20px;
+}
+/* MEN */
+.header-gender-men{
+    position: absolute;
+    top: 50px;
+    bottom: 50px;
+    right: 1090px;
+    left: 318px;
+}
+.header-gender-men-link{
+    height: 20px;
+    width: 32px;
+}
+
+/* WOMEN */
+.header-gender-women{
+    position: absolute;
+    top: 50px;
+    bottom: 50px;
+    right: 992px;
+    left: 390px;
+}
+.header-gender-women-link{
+    height: 20px;
+    width: 32px;
+}
+
+/* SEARCH */
+.hearder-search {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.hearder-search-input {
+    position: absolute;
+    height: 38px;
+    width: 380px;
+    top: 40px;
+    left: 530px;
+    padding: 10px;
+}
+
+
+.btn-hearder-search {
+    position: absolute;
+    height: 37px;
+    width: 82px;
+    left: 830px ;
+    top: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+
+/* LOG IN */
+.hearder-login {
+    position: absolute;
+    /* margin-left: 1020px;
+    margin-bottom: 65px; */
+    margin-top: 20px;
+}
+
+
+
+.hearder-login-sign-up {
+    position:absolute;
+    
+    width: 140px;
+    justify-content: center;
+    text-align: center;
+    top: 40px;
+    /* right: 100px; */
+    left: 960px;
+    
+    
+}
+
+.hearder-wishlist {
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    left: 1162px;
+    /* bottom: 100px; */
+    margin-top: 70px;
+}
+
+.hearder-cart {
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    left: 1280px;
+    /* bottom: 100px; */
+    margin-top: 70px;
+}
+
+
+/* HEARDER-2 */
+
+.hearder-2 {
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 1440px;
+    background-color: white;
+    
+}
+
+
+
+.Categories{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 248px 0 249px;
+    
+    
+}
+/* HEARDER-3 */
+
+.Banner {
+    position: relative ;
+    width: 1440px;
+    height: 598px;
+    background-color: #c8d4e6;
+}
+
+.new-season {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 103px;
+    margin-left: 130px;
+}
+
+.new--season {
+    height: 18px;
+    width: 82px;
+    font-size: 14px;
+}
+
+.hr-new--season {
+    /* transform: rotate(90deg); */
+    width: 40px;
+    height: 1px;
+    border: 1px solid #000;
+    margin-top: 13px;
+
+}
+
+.Route-one{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 137px;
+    margin-left: 130px;
+    font-weight: 900;
+}
+.R-one {
+    height: 73px;
+    width: 450px;
+    font-size: 58px;
+}
+
+.Lastest-Skateboard {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 223px;
+    margin-left: 230px;
+    z-index: 1;
+    font-weight: 900;
+}
+
+.L-Skateboard {
+    height: 73px;
+    width: 563px;
+    font-size: 58px;
+}
+
+.Discover {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 394px;
+    margin-left: 162px;
+}
+
+.btn-discover {
+    height: 38px;
+    width: 121px;
+    background-color: black;
+    color: white;
+}
+
+.icon {
+    position: absolute;
+    width: 25.93px;
+    height: 26px;
+    margin-top: 404px;
+    margin-left: 330px;
+}
+
+.watch-video {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 404px;
+    margin-left: 371px;
+}
+
+.W-video {
+    height: 18px;
+    width: 89px;
+    font-size: 14px;
+    font-style: normal;
+    
+}
+
+.layout {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: 700px;
+    background-color: #E0FFFF;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+
+
+.photo {
+    position: absolute;
+    margin-left: 832px ;
+    margin-bottom: 200px;
+}
+
+.photo-1 {
+    height: 629px;
+    width: 470px;
+}
+
+/* .hr-banner {
+    position: absolute;
+    width: 40px;
+    height: 2px;
+    display: flex;
+    /* justify-content: center; */
+    /* margin-top: 550px;
+    margin-left: 455px; */
+/* } */
+
+.hr1 {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+} */
+
+/* BRANDS */
+
+.Brands {
+    position: relative;
+    height: 147px;
+    width: 1440px;
+    background-color: rgb(251, 253, 255);
+
+}
+
+.a-brand {
+    position: absolute;
+    justify-content: space-between ;
+    display: flex;
+    margin-top: 35px;
+}
+
+.nike {
+    height: 60px;
+    width: 83px;
+    margin-top: 4px;
+    margin-left: 129px;
+    margin-right: 72px;
+}
+
+.adidas {
+    width: 62px;
+    height: 60px;
+    margin-right: 72px;
+}
+
+.route-one {
+    height: 67px;
+    width: 135px;
+    margin-right: 72px;
+}
+
+.vans {
+    height: 67px;
+    width: 128px;
+    margin-right: 72px;
+}
+
+.carhartt {
+    height: 67px;
+    width: 128px;
+    /* margin-top: 45px;
+    margin-right: 487px; */
+    margin-right: 72px;
+}
+
+.santa {
+    height: 60px;
+    width: 49px;
+    /* margin-top: 45px;
+    margin-right: 366px; */
+    margin-right: 128px;
+}
+
+.hr-brands {
+    position: absolute;
+    width: 40px;
+    height: 1px;
+    border: 1px solid #000;
+    margin-top: 38px;
+    margin-left: 1160px;
+}
+
+.Explore-brands {
+    margin-top: 25px;
+}
+
+/* FASHION-TRENDING */
+
+.fashion-trending {
+    position: relative;
+    height: 800px;
+    width: 1440px;
+    background-color: rgb(245, 245, 245) ;
+}
+
+.hr-fashion-trending {
+
+    position: absolute;
+    width: 60px;
+    height: 0px;
+    border: 1px solid #000;
+    margin-top: 142px;
+    margin-left: 455px;
+}
+
+.fashion {
+    position: absolute;
+    height: 50px;
+    width: 345px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 120px;
+    margin-left: 130px;
+}
+
+.img-fashion {
+    position: absolute;
+    width: 380px;
+    height: 500px;
+    background-color: rgb(233, 206, 233);
+    margin-left: 130px;
+    margin-top: 224px;
+
+}
+
+.img-shoe {
+    position: absolute;
+    width: 195px;
+    height: 320px;
+    background-color: #B0C4DE; 
+    margin-top: 410px ;
+    margin-left: 913px;
+    z-index: 1;
+}
+
+.image-shoe {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: -67px;
+    
+}
+
+.img-hat {
+    position: absolute;
+    width: 250px;
+    height: 260px;
+    background-color: rgb(160, 183, 204);
+    margin-top: 220px ;
+    margin-left: 1020px;
+}
+
+.image-hat {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.drive {
+    position: absolute;
+    height: 150px;
+    width: 484px;
+    margin-top: 340px;
+    margin-left: 420px;
+}
+
+.drive-or {
+    font-size: 120px;
+    color: black;
+    font-weight: 900;
+}
+
+.driven {
+    position: absolute;
+    height: 150px;
+    width: 578px;
+    margin-top: 455px;
+    margin-left: 595px;
+    z-index: 1;
+}
+
+.be-driven {
+    font-size: 120px;
+    color: white;
+    font-weight: 900;
+}
+
+.introduce {
+    position: absolute;
+    height: 36px;
+    width: 280px;
+    margin-top: 540px;
+    margin-left: 600px;
+}
+
+.p-introduce {
+    font-size: 14px;
+}
+
+.btn-shop-now {
+    position: absolute;
+    width: 132px;
+    height: 38px;
+    
+}
+
+.shop-now {
+    background-color: black;
+    color: white;
+    height: 38px;
+    width: 132px;
+    margin-top: 686px;
+    margin-left: 600px;
+}
+
+/* CONVERSE  */
+
+.converse {
+    position: relative;
+    height: 670px;
+    width: 1440px;
+    background-color: white ;
+}
+
+.p-converse {
+    position: absolute;
+    height: 50px;
+    width: 873px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+
+.hr-converse {
+    position: absolute;
+    width: 60px;
+    height: 0px;
+    border: 1px solid black;
+    margin-top: 80px;
+    margin-left: 950px;
+}
+
+.converse-1 {
+    position: absolute;
+    height: 420px;
+    width: 535px;
+    background-color: rgb(184, 214, 241) ;
+    margin-top: 160px;
+    margin-left: 130px;
+}
+
+.image-converse-1 {
+    margin-left: -35px;
+}
+
+.converse-2 {
+    position: absolute;
+    height: 275px;
+    width: 455px;
+    background-color: pink ;
+    margin-top: 200px;
+    margin-left: 640px;
+}
+.image-converse-2 {
+    margin-left: -35px;
+}
+
+.introduce-converse {
+    position: absolute;
+    height: 60px;
+    width: 455px;
+    background-color: white ;
+    margin-top: 475px;
+    margin-left: 640px;
+}
+
+.p-introduce-converse {
+    width: 234px;
+    height: 18px;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.price {
+    height: 21px;
+    width: 57px;
+    display: flex;
+    margin-left: 355px;
+    margin-top: -16px;
+}
+
+.p-price {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+.icon-converse {
+    position: relative;
+    /* margin-top: 100px; */
+    /* margin-left: 1165px; */
+}
+
+.icon-1-converse {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 1140px;
+}
+
+.circle-1 {
+    margin-left: -38px;
+    margin-bottom: 19px;
+}
+
+.icon-2-converse {
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 1140px;
+}
+
+.circle-2 {
+    margin-left: -34px;
+    margin-bottom: 19px;
+}
+
+/* ROUTE ONE OB  */
+.Route-one-OB {
+    position: relative;
+    height: 560px;
+    width: 1440px;
+    background-color: rgb(209, 243, 238);
+}
+
+.p-Route-one-OB {
+    position: absolute;
+    height: 18px;
+    width: 82px;
+    font-size: 14px;
+    margin-top: 100px;
+    margin-left: 130px;  
+}
+
+.hr-Route-one-OB {
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    border: 1px solid #000;
+    margin-top: 114px;
+    margin-left: 220px;
+}
+
+
+.p-route {
+    position: absolute;
+    width: 360px;
+    height: 60px;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 134px;
+    margin-left: 130px;
+}
+
+.p-latest {
+    position: absolute;
+    width: 376px;
+    height: 60px;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 202px;
+    margin-left: 130px;
+}
+
+.p-introduce-Route-one-OB {
+    position: absolute;
+    height: 54px;
+    width: 280px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 280px;
+    margin-left: 130px;
+}
+
+.btn-Route-one-OB{
+    position: absolute;
+    height: 38px;
+    width: 121px;
+    margin-top: 422px;
+    margin-left: 130px;
+}
+
+.btn-route {
+    height: 38px;
+    width: 121px;
+    background-color: black;
+    color: white;
+}
+
+.img-1 {
+    position: absolute;
+    height: 430px;
+    width: 350px;
+    margin-left: 560px;
+}
+
+.img-2 {
+    position: absolute;
+    height: 430px;
+    width: 350px;
+    margin-left: 683px;
+}
+
+.img-3 {
+    position: absolute;
+    height: 430px;
+    width: 350px;
+    margin-left: 805px;
+}
+
+.img-4 {
+    position: absolute;
+    height: 430px;
+    width: 350px;
+    margin-left: 928px;
+}
+
+.img-5 {
+    position: absolute;
+    height: 430px;
+    width: 350px;
+    margin-left: 1050px;
+}
+
+
+
+
+
+
+
+
+
+
+

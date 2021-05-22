@@ -1,0 +1,147 @@
+.header {
+    height: 120px;
+    width: 1440px;
+    background-color: #fafafa ;
+    display: flex ;
+    justify-content: space-between;
+    position: relative;
+}
+
+.img-cordes {
+    /* display: flex; */
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 130px;
+    top: 35px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+/* .logo {
+    display: inline-block;
+} */
+
+/* .logo {
+   
+    /* text-align: center;
+    justify-content: space-between; 
+}
+*/
+
+.gender-1 {
+    margin-left: 286px; 
+    align-self: center;
+}
+
+
+.gender {
+    align-self: center;
+    margin-right: 600px;
+    display: flex;
+    margin-top: 5px;
+    justify-content: center;
+
+}
+
+.gender-2 {
+    align-self: center;
+    justify-content: center;
+    margin-left: 356px;
+    
+}
+
+/* .i {
+    color: black;
+} */
+
+/* .search {
+    /* display: flex; */
+    /* align-content: space-between ; 
+    justify-content: space-between ;
+
+} */
+
+.search input {
+    
+    width: 153px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    margin-bottom: 50px;
+    margin-right: 1000px;
+
+} 
+
+
+.search {
+    position: relative;
+    align-items: center;
+    display: flex;
+    /* justify-content: center; */
+    margin-bottom: 100px;
+    margin-right: 500px;
+    
+}
+
+.search input {
+    position: absolute;
+    border: 1px solid #9a9a9a;
+    box-sizing : border-box ;
+    left:400px ;
+    top:100px;
+   
+
+    width: 280px;
+    top: 40px;
+    left: 580px;
+    height: 28px;
+    margin-left: 82px;
+    
+
+    /* justify-content: space-between;
+    display: flexbox; */
+}
+
+.but-search {
+    position: absolute;
+    /* margin-right: ; */
+    margin-top: 42px;
+    margin-right: 260px;
+    align-self: center;
+
+
+}
+
+.category {
+    height: 50px;
+    width: 1440px;
+    background-color: white;
+    text-align: center;
+}
+
+.categories {
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.li {
+    list-style-type: none;
+    /* display: inline-flexbox; */
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    /* margin-bottom: 30px; */
+}
+
+.ul {
+    justify-content: space-around;
+    /* margin-bottom: 30px; */
+}
+
+li a {
+    display: block;
+} */
