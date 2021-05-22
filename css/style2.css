@@ -147,6 +147,8 @@ header{
     background-color: black;
     color: white;
     text-align: center;
+    outline: none;
+    border: none;
 }
 
 
@@ -205,8 +207,6 @@ header{
     
 }
 
-
-
 .Categories{
     display: flex;
     justify-content: space-between;
@@ -258,6 +258,7 @@ header{
     height: 73px;
     width: 450px;
     font-size: 58px;
+    margin-top: 20px;
 }
 
 .Lastest-Skateboard {
@@ -274,6 +275,7 @@ header{
     height: 73px;
     width: 563px;
     font-size: 58px;
+    margin-top: 20px;
 }
 
 .Discover {
@@ -289,6 +291,8 @@ header{
     width: 121px;
     background-color: black;
     color: white;
+    outline: none;
+    border: none;
 }
 
 .icon {
@@ -361,7 +365,6 @@ header{
     height: 147px;
     width: 1440px;
     background-color: rgb(251, 253, 255);
-
 }
 
 .a-brand {
@@ -433,6 +436,7 @@ header{
     height: 800px;
     width: 1440px;
     background-color: rgb(245, 245, 245) ;
+    margin-top: 127px;
 }
 
 .hr-fashion-trending {
@@ -552,6 +556,8 @@ header{
     width: 132px;
     margin-top: 686px;
     margin-left: 600px;
+    outline: none;
+    border: none;
 }
 
 /* CONVERSE  */
@@ -736,6 +742,8 @@ header{
     width: 121px;
     background-color: black;
     color: white;
+    outline: none;
+    border: none;
 }
 
 .img-1 {
@@ -772,9 +780,24 @@ header{
     width: 350px;
     margin-left: 1050px;
 }
+ 
+/*  NEW RELEASES  */
+.New-Releases {
+    position: relative;
+    height: 1100px;
+    width: 1440px;
+    background-color: hsl(0,0%,98%);
+}
 
-
-
+.p-New-Releases {
+    position: absolute;
+    height: 50px;
+    width: 274px;
+    margin-left: 130px;
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 600;
+}
 
 
 
