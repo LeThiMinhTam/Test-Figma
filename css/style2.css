@@ -784,7 +784,7 @@ header{
 /*  NEW RELEASES  */
 .New-Releases {
     position: relative;
-    height: 1100px;
+    height: 2400px;
     width: 1440px;
     background-color: hsl(0,0%,98%);
 }
@@ -798,6 +798,395 @@ header{
     font-size: 40px;
     font-weight: 600;
 }
+
+.hr-New-Releases{
+    position: absolute;
+    width: 60px;
+    height: 0px;
+    border: 1px solid #000;
+    margin-top: 120px;
+    margin-left: 420px;
+}
+
+.image-New-Releases-1 {
+    position: absolute;
+    height: 200px;
+    width: 1200px;
+    margin-top: 200px;
+    margin-left: 110px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.shoe-1 {
+    height: 285px;
+    width: 280px;
+}
+
+.skate-2 {
+    height: 285px;
+    width: 280px;
+}
+
+.hat-3 {
+    height: 285px;
+    width: 280px;
+}
+
+.anh-4 {
+    height: 285px;
+    width: 280px;
+}
+
+.shoe-1-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 485px;
+    margin-left: 120px;
+}
+
+.p-shoe-1-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-shoe-1-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-shoe-1-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.shoe-1-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.skate-2-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 485px;
+    margin-left: 420px;
+}
+
+.p-skate-2-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-skate-2-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-skate-2-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.skate-2-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.hat-3-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 485px;
+    margin-left: 720px;
+}
+
+.p-hat-3-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-hat-3-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-hat-3-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.hat-3-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.anh-4-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 485px;
+    margin-left: 1020px;
+}
+
+.p-anh-4-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-anh-4-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-anh-4-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.anh-4-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.image-New-Releases-2 {
+    position: absolute;
+    height: 200px;
+    width: 1200px;
+    margin-top: 650px;
+    margin-left: 110px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.skate-5 {
+    height: 285px;
+    width: 280px;
+}
+
+.bag-6 {
+    height: 285px;
+    width: 280px;
+}
+
+.hat-7 {
+    height: 285px;
+    width: 280px;
+}
+
+.skate-8 {
+    height: 285px;
+    width: 280px;
+}
+
+.skate-5-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 935px;
+    margin-left: 120px;
+}
+
+.p-skate-5-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-skate-5-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-skate-5-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.skate-5-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.bag-6-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 935px;
+    margin-left: 420px;
+}
+
+.p-bag-6-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-bag-6-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-bag-6-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.bag-6-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.hat-7-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 935px;
+    margin-left: 720px;
+}
+
+.p-hat-7-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-hat-7-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-hat-7-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.hat-7-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+.skate-8-introduce {
+    position: absolute;
+    background-color: white;
+    height: 97px;
+    width: 280px;  
+    margin-top: 935px;
+    margin-left: 1020px;
+}
+
+.p-skate-8-introduce{
+    height: 18px;
+    width: 240px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.icon-pricw-skate-8-introduce{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.price-skate-8-introduce{
+    height: 30px;
+    width: 60px;
+    font-size: 17px;
+    margin-top: -16px;
+    margin-left: 30px;
+}
+
+.skate-8-sold{
+    height: 15px;
+    width: 51px;
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
